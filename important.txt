@@ -2,3 +2,5 @@ Before updating do not change
 404.html
 robots.txt
 sitemap.txt
+
+Only update assets and index.html after running dist-web-prod on audiosebasprod
