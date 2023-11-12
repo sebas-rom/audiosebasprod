@@ -1,0 +1,4 @@
+Before updating do not change
+404.html
+robots.txt
+sitemap.txt
